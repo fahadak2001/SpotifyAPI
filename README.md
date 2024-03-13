@@ -1,3 +1,7 @@
+
+![WhatsApp Image 2024-03-14 at 12 30 35 AM](https://github.com/fahadak2001/SpotifyAPI/assets/61794596/803a0cf8-c6d1-4c71-b750-c6da9d73ec23)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
